@@ -1,0 +1,26 @@
+[
+  [
+    {"id": "GT-AV", "value": 1180000, "name": "Alta Verapaz"},
+    {"id": "GT-BV", "value": 315000, "name": "Baja Verapaz"},
+    {"id": "GT-CM", "value": 630000, "name": "Chimaltenango"},
+    {"id": "GT-CQ", "value": 1050000, "name": "Chiquimula"},
+    {"id": "GT-PR", "value": 485000, "name": "El Progreso"},
+    {"id": "GT-ES", "value": 3500000, "name": "Escuintla"},
+    {"id": "GT-GU", "value": 3850000, "name": "Guatemala"},
+    {"id": "GT-HU", "value": 1250000, "name": "Huehuetenango"},
+    {"id": "GT-IZ", "value": 475000, "name": "Izabal"},
+    {"id": "GT-JA", "value": 435000, "name": "Jalapa"},
+    {"id": "GT-JU", "value": 525000, "name": "Jutiapa"},
+    {"id": "GT-PE", "value": 625000, "name": "Petén"},
+    {"id": "GT-QZ", "value": 1250000, "name": "Quetzaltenango"},
+    {"id": "GT-QC", "value": 1150000, "name": "Quiché"},
+    {"id": "GT-RE", "value": 385000, "name": "Retalhuleu"},
+    {"id": "GT-SA", "value": 385000, "name": "Sacatepéquez"},
+    {"id": "GT-SM", "value": 785000, "name": "San Marcos"},
+    {"id": "GT-SR", "value": 385000, "name": "Santa Rosa"},
+    {"id": "GT-SO", "value": 285000, "name": "Sololá"},
+    {"id": "GT-SU", "value": 685000, "name": "Suchitepéquez"},
+    {"id": "GT-TO", "value": 585000, "name": "Totonicapán"},
+    {"id": "GT-ZA", "value": 285000, "name": "Zacapa"}
+  ]
+]
