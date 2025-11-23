@@ -1,0 +1,12 @@
+[
+  [
+    {"id": "GT-AV", "value": 85000, "name": "Alta Verapaz"},
+    {"id": "GT-BV", "value": 25000, "name": "Baja Verapaz"},
+    {"id": "GT-CM", "value": 45000, "name": "Chimaltenango"},
+    {"id": "GT-PE", "value": 320000, "name": "Petén"},
+    {"id": "GT-IZ", "value": 180000, "name": "Izabal"},
+    {"id": "GT-QZ", "value": 95000, "name": "Quetzaltenango"},
+    {"id": "GT-SA", "value": 280000, "name": "Sacatepéquez"},
+    {"id": "GT-SO", "value": 220000, "name": "Sololá"}
+  ]
+]
