@@ -1,4 +1,3 @@
-[
   [
     {"id": "GT-AV", "value": 85000, "name": "Alta Verapaz"},
     {"id": "GT-BV", "value": 25000, "name": "Baja Verapaz"},
@@ -9,4 +8,4 @@
     {"id": "GT-SA", "value": 280000, "name": "Sacatepéquez"},
     {"id": "GT-SO", "value": 220000, "name": "Sololá"}
   ]
-]
+
